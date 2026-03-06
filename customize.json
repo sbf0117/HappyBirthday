@@ -1,9 +1,9 @@
 {
-  "greeting": "你好啊",
-  "name": "XX",
+  "greeting": "哈喽，今天是2026年3月7日！是一个特殊的日子，因为是你的生日！",
+  "name": "小梦",
   "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
-  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png",
+  "wishText": "如花似叶，岁岁年年，共占春风",
+  "imagePath": "img/hym.jpg",
   "text1": "今天是你的生日啊!!! :D",
   "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
   "sendButtonLabel": "发送",
@@ -16,11 +16,11 @@
   "smiley": ":)",
   "bigTextPart1": "所",
   "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
+  "wishHeading": "祝全宇宙最漂亮美丽聪明可爱善良的女孩生日快乐!",
   "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "replayText": "你对我的意义其实比你知道的还要深",
   "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
+  "music": "./music/bpbl.mp3",
   "fonts": [
     {
       "name": "Ma Shan Zheng",
